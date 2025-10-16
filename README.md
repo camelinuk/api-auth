@@ -3,3 +3,6 @@
 ---
 # 相關教學
 [Documents - *Auth sample*](./AUTH_README.md) 
+
+# 範例程式
+[Exampel - *Auth sample*](./auth-example.php) 
